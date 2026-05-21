@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hello-ji/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Hello Ji](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hello-ji/) |
+| **Get License** | [Get License For Hello Ji](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hello-ji/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c40afcb1ad77fea4f1488b92aaa7178669335f63f931a366843b39bee48c0ff3` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
