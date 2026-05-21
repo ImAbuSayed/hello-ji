@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hello-ji/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Hello Ji](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hello-ji/) |
+| **Get License** | [Secure Licensing Rights for Hello Ji](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hello-ji/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1819)
 
 ---
 
