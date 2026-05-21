@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hello-ji/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Hello Ji](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hello-ji/) |
+| **Get License** | [Secure Licensing Rights for Hello Ji](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hello-ji/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri akhiyan da jaadu got me under sohniye
+> Main ta takda hi rehnda losing control heeriye
+> Pehli takni ch dil lutiya feeling the spell
+> Tere husan di roshni shining everywhere
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
